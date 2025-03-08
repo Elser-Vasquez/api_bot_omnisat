@@ -3,6 +3,5 @@ lib
 dist
 .env
 .git
-Dockerfile
 .dockerignore
 data.json
